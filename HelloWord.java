@@ -2,7 +2,7 @@
 
 public class HelloWord {
 
-	private String name;
+	protected String name;
 	
 	//public helloword(){}
 	public HelloWord (String name){
